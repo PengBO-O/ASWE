@@ -10,7 +10,7 @@ This is a Tensorflow implement of the proposed in paper "Adversarial Learning of
 ## Dataset
   Sentiment140 (Divided into two files, one contains positive sentences and the other contains negative sentences)
 
-  We will upload the training dataset and our results soon
+  The training datasets and our results can be download from https://pan.baidu.com/s/1gt9hZR6zAwoTWmsd2uaquw (Extraction code: 6nv6). (Github传大文件太慢了,在下懒了)
   
   
 ## Evaluation
